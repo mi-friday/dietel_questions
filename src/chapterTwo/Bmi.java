@@ -1,2 +1,4 @@
-package chapterTwo;public class Bmi {
+package chapterTwo;
+
+public class Bmi {
 }

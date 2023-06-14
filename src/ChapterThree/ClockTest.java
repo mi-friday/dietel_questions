@@ -1,6 +1,5 @@
 package ChapterThree;
 
-import ChapterThree.Clock;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
